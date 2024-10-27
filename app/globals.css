@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  --scroll-behavior: smooth!important;
+  scroll-behavior: smooth!important;
+
+  }
+
+.r {
+  color : #1fb6ff;
+  color: #003a70;
+}
